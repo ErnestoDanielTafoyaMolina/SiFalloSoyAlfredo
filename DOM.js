@@ -1,0 +1,1 @@
+//DOM es todo el arbol html que vamos a tener en una pagina web
